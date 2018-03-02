@@ -8,6 +8,7 @@
 void Discr(float a,float b,float c);
 
 //igor gómez
+//igor
 
 int main()
 {
